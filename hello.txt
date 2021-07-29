@@ -11,3 +11,5 @@ Fix C
 
 push
 
+after add -u
+
