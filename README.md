@@ -42,13 +42,15 @@
 
 
 
-### Semi-final 
+### Semi-final
 > 對戰:cn:樊振東， 3:4敗
-:::danger 
+<div class="alert alert-danger">
+
 :bulb:此場精彩程度堪比準金牌戰建議觀看！
 
 - [x] 請先準備好一顆強心臟
-:::
+</div>
+
 
 
 |                |  1  |  2  |  3  |  4  |  5  |  6  |  7  |
